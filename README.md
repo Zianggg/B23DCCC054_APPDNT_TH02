@@ -37,6 +37,21 @@ Kiểm tra mã: `npx tsc --noEmit`, `npm run lint`, `npm test`.
 | Thông báo                | Nội dung, thời gian, trạng thái đã đọc/chưa đọc (nền, chấm xanh, chữ đậm khác nhau); chạm để đánh dấu đã đọc, nhấn giữ để đổi trạng thái, nút "Đọc tất cả", lọc "Chưa đọc"                 |
 | Cài đặt                  | Thông tin tài khoản; `Switch` chế độ tối, hiện/ẩn huy hiệu chưa đọc trên tab, trạng thái hoạt động; nút Đăng xuất (hộp thoại xác nhận) → quay về Đăng nhập                               |
 
+## Giao diện
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/1-dang-nhap.png" width="220" alt="Màn hình Đăng nhập"><br><b>Đăng nhập</b></td>
+    <td align="center"><img src="screenshots/2-home.png" width="220" alt="Màn hình Home"><br><b>Home</b></td>
+    <td align="center"><img src="screenshots/6-chat.png" width="220" alt="Màn hình Chat"><br><b>Chat</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/3-danh-ba.png" width="220" alt="Màn hình Danh bạ"><br><b>Danh bạ</b></td>
+    <td align="center"><img src="screenshots/4-thong-bao.png" width="220" alt="Màn hình Thông báo"><br><b>Thông báo</b></td>
+    <td align="center"><img src="screenshots/5-cai-dat.png" width="220" alt="Màn hình Cài đặt"><br><b>Cài đặt</b></td>
+  </tr>
+</table>
+
 ## Cấu trúc thư mục
 
 ```
